@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Private_constructor\bin\Debug\net7.0\Private_constructor.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Private_constructor\bin\Debug\net7.0\Private_constructor.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Private_constructor\bin\Debug\net7.0\Private_constructor.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Private_constructor\bin\Debug\net7.0\Private_constructor.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Private_constructor\bin\Debug\net7.0\Private_constructor.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Private_constructor\obj\Debug\net7.0\Private_constructor.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Private_constructor\obj\Debug\net7.0\Private_constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Private_constructor\obj\Debug\net7.0\Private_constructor.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Private_constructor\obj\Debug\net7.0\Private_constructor.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Private_constructor\obj\Debug\net7.0\Private_constructor.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Private_constructor\obj\Debug\net7.0\Private_constructor.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Private_constructor\obj\Debug\net7.0\refint\Private_constructor.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Private_constructor\obj\Debug\net7.0\Private_constructor.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Private_constructor\obj\Debug\net7.0\Private_constructor.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Private_constructor\obj\Debug\net7.0\ref\Private_constructor.dll

@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\ListGeneric\bin\Debug\net7.0\ListGeneric.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\ListGeneric\bin\Debug\net7.0\ListGeneric.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\ListGeneric\bin\Debug\net7.0\ListGeneric.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\ListGeneric\bin\Debug\net7.0\ListGeneric.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\ListGeneric\bin\Debug\net7.0\ListGeneric.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\ListGeneric\obj\Debug\net7.0\ListGeneric.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\ListGeneric\obj\Debug\net7.0\ListGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\ListGeneric\obj\Debug\net7.0\ListGeneric.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\ListGeneric\obj\Debug\net7.0\ListGeneric.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\ListGeneric\obj\Debug\net7.0\ListGeneric.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\ListGeneric\obj\Debug\net7.0\ListGeneric.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\ListGeneric\obj\Debug\net7.0\refint\ListGeneric.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\ListGeneric\obj\Debug\net7.0\ListGeneric.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\ListGeneric\obj\Debug\net7.0\ListGeneric.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\ListGeneric\obj\Debug\net7.0\ref\ListGeneric.dll

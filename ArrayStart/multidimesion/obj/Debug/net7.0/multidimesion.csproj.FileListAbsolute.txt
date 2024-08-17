@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\multidimesion\bin\Debug\net7.0\multidimesion.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\multidimesion\bin\Debug\net7.0\multidimesion.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\multidimesion\bin\Debug\net7.0\multidimesion.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\multidimesion\bin\Debug\net7.0\multidimesion.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\multidimesion\bin\Debug\net7.0\multidimesion.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\multidimesion\obj\Debug\net7.0\multidimesion.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\multidimesion\obj\Debug\net7.0\multidimesion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\multidimesion\obj\Debug\net7.0\multidimesion.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\multidimesion\obj\Debug\net7.0\multidimesion.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\multidimesion\obj\Debug\net7.0\multidimesion.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\multidimesion\obj\Debug\net7.0\multidimesion.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\multidimesion\obj\Debug\net7.0\refint\multidimesion.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\multidimesion\obj\Debug\net7.0\multidimesion.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\multidimesion\obj\Debug\net7.0\multidimesion.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\multidimesion\obj\Debug\net7.0\ref\multidimesion.dll

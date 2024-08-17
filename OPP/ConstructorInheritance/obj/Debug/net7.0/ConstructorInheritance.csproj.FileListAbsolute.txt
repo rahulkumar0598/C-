@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ConstructorInheritance\bin\Debug\net7.0\ConstructorInheritance.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ConstructorInheritance\bin\Debug\net7.0\ConstructorInheritance.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ConstructorInheritance\bin\Debug\net7.0\ConstructorInheritance.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ConstructorInheritance\bin\Debug\net7.0\ConstructorInheritance.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ConstructorInheritance\bin\Debug\net7.0\ConstructorInheritance.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ConstructorInheritance\obj\Debug\net7.0\ConstructorInheritance.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ConstructorInheritance\obj\Debug\net7.0\ConstructorInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ConstructorInheritance\obj\Debug\net7.0\ConstructorInheritance.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ConstructorInheritance\obj\Debug\net7.0\ConstructorInheritance.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ConstructorInheritance\obj\Debug\net7.0\ConstructorInheritance.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ConstructorInheritance\obj\Debug\net7.0\ConstructorInheritance.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ConstructorInheritance\obj\Debug\net7.0\refint\ConstructorInheritance.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ConstructorInheritance\obj\Debug\net7.0\ConstructorInheritance.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ConstructorInheritance\obj\Debug\net7.0\ConstructorInheritance.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ConstructorInheritance\obj\Debug\net7.0\ref\ConstructorInheritance.dll

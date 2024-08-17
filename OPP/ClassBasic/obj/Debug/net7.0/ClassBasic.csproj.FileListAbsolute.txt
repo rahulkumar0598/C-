@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\bin\Debug\net7.0\ClassBasic.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\bin\Debug\net7.0\ClassBasic.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\bin\Debug\net7.0\ClassBasic.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\bin\Debug\net7.0\ClassBasic.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\bin\Debug\net7.0\ClassBasic.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ClassBasic.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ClassBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ClassBasic.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ClassBasic.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ClassBasic.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ClassBasic.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\refint\ClassBasic.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ClassBasic.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ClassBasic.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ref\ClassBasic.dll

@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleInheritance\bin\Debug\net7.0\MultipleInheritance.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleInheritance\bin\Debug\net7.0\MultipleInheritance.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleInheritance\bin\Debug\net7.0\MultipleInheritance.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleInheritance\bin\Debug\net7.0\MultipleInheritance.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleInheritance\bin\Debug\net7.0\MultipleInheritance.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleInheritance\obj\Debug\net7.0\MultipleInheritance.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleInheritance\obj\Debug\net7.0\MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleInheritance\obj\Debug\net7.0\MultipleInheritance.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleInheritance\obj\Debug\net7.0\MultipleInheritance.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleInheritance\obj\Debug\net7.0\MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleInheritance\obj\Debug\net7.0\MultipleInheritance.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleInheritance\obj\Debug\net7.0\refint\MultipleInheritance.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleInheritance\obj\Debug\net7.0\MultipleInheritance.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleInheritance\obj\Debug\net7.0\MultipleInheritance.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleInheritance\obj\Debug\net7.0\ref\MultipleInheritance.dll

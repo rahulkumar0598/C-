@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EnumInCSharp3/1.0.0": {
+        "runtime": {
+          "EnumInCSharp3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EnumInCSharp3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

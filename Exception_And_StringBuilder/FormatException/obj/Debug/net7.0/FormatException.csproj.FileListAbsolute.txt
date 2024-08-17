@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\Exception_And_StringBuilder\FormatException\bin\Debug\net7.0\FormatException.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\Exception_And_StringBuilder\FormatException\bin\Debug\net7.0\FormatException.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\Exception_And_StringBuilder\FormatException\bin\Debug\net7.0\FormatException.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\Exception_And_StringBuilder\FormatException\bin\Debug\net7.0\FormatException.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\Exception_And_StringBuilder\FormatException\bin\Debug\net7.0\FormatException.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\Exception_And_StringBuilder\FormatException\obj\Debug\net7.0\FormatException.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\Exception_And_StringBuilder\FormatException\obj\Debug\net7.0\FormatException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\Exception_And_StringBuilder\FormatException\obj\Debug\net7.0\FormatException.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\Exception_And_StringBuilder\FormatException\obj\Debug\net7.0\FormatException.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\Exception_And_StringBuilder\FormatException\obj\Debug\net7.0\FormatException.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\Exception_And_StringBuilder\FormatException\obj\Debug\net7.0\FormatException.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\Exception_And_StringBuilder\FormatException\obj\Debug\net7.0\refint\FormatException.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\Exception_And_StringBuilder\FormatException\obj\Debug\net7.0\FormatException.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\Exception_And_StringBuilder\FormatException\obj\Debug\net7.0\FormatException.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\Exception_And_StringBuilder\FormatException\obj\Debug\net7.0\ref\FormatException.dll

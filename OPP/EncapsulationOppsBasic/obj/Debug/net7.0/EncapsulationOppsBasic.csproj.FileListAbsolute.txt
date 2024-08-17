@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\EncapsulationOppsBasic\bin\Debug\net7.0\EncapsulationOppsBasic.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\EncapsulationOppsBasic\bin\Debug\net7.0\EncapsulationOppsBasic.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\EncapsulationOppsBasic\bin\Debug\net7.0\EncapsulationOppsBasic.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\EncapsulationOppsBasic\bin\Debug\net7.0\EncapsulationOppsBasic.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\EncapsulationOppsBasic\bin\Debug\net7.0\EncapsulationOppsBasic.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\EncapsulationOppsBasic\obj\Debug\net7.0\EncapsulationOppsBasic.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\EncapsulationOppsBasic\obj\Debug\net7.0\EncapsulationOppsBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\EncapsulationOppsBasic\obj\Debug\net7.0\EncapsulationOppsBasic.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\EncapsulationOppsBasic\obj\Debug\net7.0\EncapsulationOppsBasic.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\EncapsulationOppsBasic\obj\Debug\net7.0\EncapsulationOppsBasic.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\EncapsulationOppsBasic\obj\Debug\net7.0\EncapsulationOppsBasic.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\EncapsulationOppsBasic\obj\Debug\net7.0\refint\EncapsulationOppsBasic.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\EncapsulationOppsBasic\obj\Debug\net7.0\EncapsulationOppsBasic.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\EncapsulationOppsBasic\obj\Debug\net7.0\EncapsulationOppsBasic.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\EncapsulationOppsBasic\obj\Debug\net7.0\ref\EncapsulationOppsBasic.dll

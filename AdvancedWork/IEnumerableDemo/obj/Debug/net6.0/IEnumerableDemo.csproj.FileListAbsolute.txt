@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\IEnumerableDemo\bin\Debug\net6.0\IEnumerableDemo.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\IEnumerableDemo\bin\Debug\net6.0\IEnumerableDemo.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\IEnumerableDemo\bin\Debug\net6.0\IEnumerableDemo.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\IEnumerableDemo\bin\Debug\net6.0\IEnumerableDemo.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\IEnumerableDemo\bin\Debug\net6.0\IEnumerableDemo.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\IEnumerableDemo\obj\Debug\net6.0\refint\IEnumerableDemo.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\IEnumerableDemo\obj\Debug\net6.0\ref\IEnumerableDemo.dll

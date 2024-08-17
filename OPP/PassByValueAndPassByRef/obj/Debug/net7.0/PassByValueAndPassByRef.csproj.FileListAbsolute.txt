@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PassByValueAndPassByRef\bin\Debug\net7.0\PassByValueAndPassByRef.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PassByValueAndPassByRef\bin\Debug\net7.0\PassByValueAndPassByRef.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PassByValueAndPassByRef\bin\Debug\net7.0\PassByValueAndPassByRef.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PassByValueAndPassByRef\bin\Debug\net7.0\PassByValueAndPassByRef.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PassByValueAndPassByRef\bin\Debug\net7.0\PassByValueAndPassByRef.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PassByValueAndPassByRef\obj\Debug\net7.0\PassByValueAndPassByRef.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PassByValueAndPassByRef\obj\Debug\net7.0\PassByValueAndPassByRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PassByValueAndPassByRef\obj\Debug\net7.0\PassByValueAndPassByRef.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PassByValueAndPassByRef\obj\Debug\net7.0\PassByValueAndPassByRef.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PassByValueAndPassByRef\obj\Debug\net7.0\PassByValueAndPassByRef.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PassByValueAndPassByRef\obj\Debug\net7.0\PassByValueAndPassByRef.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PassByValueAndPassByRef\obj\Debug\net7.0\refint\PassByValueAndPassByRef.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PassByValueAndPassByRef\obj\Debug\net7.0\PassByValueAndPassByRef.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PassByValueAndPassByRef\obj\Debug\net7.0\PassByValueAndPassByRef.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PassByValueAndPassByRef\obj\Debug\net7.0\ref\PassByValueAndPassByRef.dll

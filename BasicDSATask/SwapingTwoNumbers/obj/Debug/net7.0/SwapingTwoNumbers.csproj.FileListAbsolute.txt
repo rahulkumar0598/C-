@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\SwapingTwoNumbers\bin\Debug\net7.0\SwapingTwoNumbers.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\SwapingTwoNumbers\bin\Debug\net7.0\SwapingTwoNumbers.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\SwapingTwoNumbers\bin\Debug\net7.0\SwapingTwoNumbers.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\SwapingTwoNumbers\bin\Debug\net7.0\SwapingTwoNumbers.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\SwapingTwoNumbers\bin\Debug\net7.0\SwapingTwoNumbers.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\SwapingTwoNumbers\obj\Debug\net7.0\SwapingTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\SwapingTwoNumbers\obj\Debug\net7.0\SwapingTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\SwapingTwoNumbers\obj\Debug\net7.0\SwapingTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\SwapingTwoNumbers\obj\Debug\net7.0\SwapingTwoNumbers.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\SwapingTwoNumbers\obj\Debug\net7.0\SwapingTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\SwapingTwoNumbers\obj\Debug\net7.0\SwapingTwoNumbers.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\SwapingTwoNumbers\obj\Debug\net7.0\refint\SwapingTwoNumbers.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\SwapingTwoNumbers\obj\Debug\net7.0\SwapingTwoNumbers.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\SwapingTwoNumbers\obj\Debug\net7.0\SwapingTwoNumbers.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\SwapingTwoNumbers\obj\Debug\net7.0\ref\SwapingTwoNumbers.dll

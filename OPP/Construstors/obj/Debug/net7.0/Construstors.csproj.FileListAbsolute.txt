@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Construstors\bin\Debug\net7.0\Construstors.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Construstors\bin\Debug\net7.0\Construstors.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Construstors\bin\Debug\net7.0\Construstors.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Construstors\bin\Debug\net7.0\Construstors.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Construstors\bin\Debug\net7.0\Construstors.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Construstors\obj\Debug\net7.0\Construstors.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Construstors\obj\Debug\net7.0\Construstors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Construstors\obj\Debug\net7.0\Construstors.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Construstors\obj\Debug\net7.0\Construstors.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Construstors\obj\Debug\net7.0\Construstors.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Construstors\obj\Debug\net7.0\Construstors.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Construstors\obj\Debug\net7.0\refint\Construstors.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Construstors\obj\Debug\net7.0\Construstors.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Construstors\obj\Debug\net7.0\Construstors.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Construstors\obj\Debug\net7.0\ref\Construstors.dll

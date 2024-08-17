@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\CheckFrequencyOfString\bin\Debug\net6.0\CheckFrequencyOfString.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\CheckFrequencyOfString\bin\Debug\net6.0\CheckFrequencyOfString.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\CheckFrequencyOfString\bin\Debug\net6.0\CheckFrequencyOfString.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\CheckFrequencyOfString\bin\Debug\net6.0\CheckFrequencyOfString.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\CheckFrequencyOfString\bin\Debug\net6.0\CheckFrequencyOfString.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\CheckFrequencyOfString\obj\Debug\net6.0\CheckFrequencyOfString.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\CheckFrequencyOfString\obj\Debug\net6.0\CheckFrequencyOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\CheckFrequencyOfString\obj\Debug\net6.0\CheckFrequencyOfString.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\CheckFrequencyOfString\obj\Debug\net6.0\CheckFrequencyOfString.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\CheckFrequencyOfString\obj\Debug\net6.0\CheckFrequencyOfString.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\CheckFrequencyOfString\obj\Debug\net6.0\CheckFrequencyOfString.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\CheckFrequencyOfString\obj\Debug\net6.0\refint\CheckFrequencyOfString.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\CheckFrequencyOfString\obj\Debug\net6.0\CheckFrequencyOfString.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\CheckFrequencyOfString\obj\Debug\net6.0\CheckFrequencyOfString.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\CheckFrequencyOfString\obj\Debug\net6.0\ref\CheckFrequencyOfString.dll

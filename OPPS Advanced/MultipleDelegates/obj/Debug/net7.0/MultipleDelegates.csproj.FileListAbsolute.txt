@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleDelegates\bin\Debug\net7.0\MultipleDelegates.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleDelegates\bin\Debug\net7.0\MultipleDelegates.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleDelegates\bin\Debug\net7.0\MultipleDelegates.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleDelegates\bin\Debug\net7.0\MultipleDelegates.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleDelegates\bin\Debug\net7.0\MultipleDelegates.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleDelegates\obj\Debug\net7.0\MultipleDelegates.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleDelegates\obj\Debug\net7.0\MultipleDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleDelegates\obj\Debug\net7.0\MultipleDelegates.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleDelegates\obj\Debug\net7.0\MultipleDelegates.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleDelegates\obj\Debug\net7.0\MultipleDelegates.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleDelegates\obj\Debug\net7.0\MultipleDelegates.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleDelegates\obj\Debug\net7.0\refint\MultipleDelegates.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleDelegates\obj\Debug\net7.0\MultipleDelegates.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleDelegates\obj\Debug\net7.0\MultipleDelegates.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultipleDelegates\obj\Debug\net7.0\ref\MultipleDelegates.dll

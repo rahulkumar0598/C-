@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\AbstractProperty\bin\Debug\net7.0\AbstractProperty.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\AbstractProperty\bin\Debug\net7.0\AbstractProperty.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\AbstractProperty\bin\Debug\net7.0\AbstractProperty.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\AbstractProperty\bin\Debug\net7.0\AbstractProperty.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\AbstractProperty\bin\Debug\net7.0\AbstractProperty.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\AbstractProperty\obj\Debug\net7.0\AbstractProperty.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\AbstractProperty\obj\Debug\net7.0\AbstractProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\AbstractProperty\obj\Debug\net7.0\AbstractProperty.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\AbstractProperty\obj\Debug\net7.0\AbstractProperty.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\AbstractProperty\obj\Debug\net7.0\AbstractProperty.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\AbstractProperty\obj\Debug\net7.0\AbstractProperty.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\AbstractProperty\obj\Debug\net7.0\refint\AbstractProperty.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\AbstractProperty\obj\Debug\net7.0\AbstractProperty.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\AbstractProperty\obj\Debug\net7.0\AbstractProperty.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\AbstractProperty\obj\Debug\net7.0\ref\AbstractProperty.dll

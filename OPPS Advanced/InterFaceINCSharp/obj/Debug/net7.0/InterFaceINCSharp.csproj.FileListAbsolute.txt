@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InterFaceINCSharp\bin\Debug\net7.0\InterFaceINCSharp.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InterFaceINCSharp\bin\Debug\net7.0\InterFaceINCSharp.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InterFaceINCSharp\bin\Debug\net7.0\InterFaceINCSharp.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InterFaceINCSharp\bin\Debug\net7.0\InterFaceINCSharp.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InterFaceINCSharp\bin\Debug\net7.0\InterFaceINCSharp.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InterFaceINCSharp\obj\Debug\net7.0\InterFaceINCSharp.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InterFaceINCSharp\obj\Debug\net7.0\InterFaceINCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InterFaceINCSharp\obj\Debug\net7.0\InterFaceINCSharp.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InterFaceINCSharp\obj\Debug\net7.0\InterFaceINCSharp.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InterFaceINCSharp\obj\Debug\net7.0\InterFaceINCSharp.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InterFaceINCSharp\obj\Debug\net7.0\InterFaceINCSharp.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InterFaceINCSharp\obj\Debug\net7.0\refint\InterFaceINCSharp.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InterFaceINCSharp\obj\Debug\net7.0\InterFaceINCSharp.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InterFaceINCSharp\obj\Debug\net7.0\InterFaceINCSharp.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InterFaceINCSharp\obj\Debug\net7.0\ref\InterFaceINCSharp.dll

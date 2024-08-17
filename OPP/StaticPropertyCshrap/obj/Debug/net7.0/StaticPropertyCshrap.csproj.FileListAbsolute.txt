@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\StaticPropertyCshrap\bin\Debug\net7.0\StaticPropertyCshrap.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\StaticPropertyCshrap\bin\Debug\net7.0\StaticPropertyCshrap.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\StaticPropertyCshrap\bin\Debug\net7.0\StaticPropertyCshrap.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\StaticPropertyCshrap\bin\Debug\net7.0\StaticPropertyCshrap.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\StaticPropertyCshrap\bin\Debug\net7.0\StaticPropertyCshrap.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\StaticPropertyCshrap\obj\Debug\net7.0\StaticPropertyCshrap.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\StaticPropertyCshrap\obj\Debug\net7.0\StaticPropertyCshrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\StaticPropertyCshrap\obj\Debug\net7.0\StaticPropertyCshrap.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\StaticPropertyCshrap\obj\Debug\net7.0\StaticPropertyCshrap.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\StaticPropertyCshrap\obj\Debug\net7.0\StaticPropertyCshrap.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\StaticPropertyCshrap\obj\Debug\net7.0\StaticPropertyCshrap.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\StaticPropertyCshrap\obj\Debug\net7.0\refint\StaticPropertyCshrap.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\StaticPropertyCshrap\obj\Debug\net7.0\StaticPropertyCshrap.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\StaticPropertyCshrap\obj\Debug\net7.0\StaticPropertyCshrap.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\StaticPropertyCshrap\obj\Debug\net7.0\ref\StaticPropertyCshrap.dll

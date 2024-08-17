@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\QueueNonGeneric\bin\Debug\net7.0\QueueNonGeneric.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\QueueNonGeneric\bin\Debug\net7.0\QueueNonGeneric.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\QueueNonGeneric\bin\Debug\net7.0\QueueNonGeneric.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\QueueNonGeneric\bin\Debug\net7.0\QueueNonGeneric.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\QueueNonGeneric\bin\Debug\net7.0\QueueNonGeneric.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\QueueNonGeneric\obj\Debug\net7.0\QueueNonGeneric.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\QueueNonGeneric\obj\Debug\net7.0\QueueNonGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\QueueNonGeneric\obj\Debug\net7.0\QueueNonGeneric.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\QueueNonGeneric\obj\Debug\net7.0\QueueNonGeneric.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\QueueNonGeneric\obj\Debug\net7.0\QueueNonGeneric.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\QueueNonGeneric\obj\Debug\net7.0\QueueNonGeneric.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\QueueNonGeneric\obj\Debug\net7.0\refint\QueueNonGeneric.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\QueueNonGeneric\obj\Debug\net7.0\QueueNonGeneric.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\QueueNonGeneric\obj\Debug\net7.0\QueueNonGeneric.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\QueueNonGeneric\obj\Debug\net7.0\ref\QueueNonGeneric.dll

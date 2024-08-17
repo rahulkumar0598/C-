@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\EnumInCSharp3\bin\Debug\net6.0\EnumInCSharp3.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\EnumInCSharp3\bin\Debug\net6.0\EnumInCSharp3.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\EnumInCSharp3\bin\Debug\net6.0\EnumInCSharp3.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\EnumInCSharp3\bin\Debug\net6.0\EnumInCSharp3.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\EnumInCSharp3\bin\Debug\net6.0\EnumInCSharp3.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\EnumInCSharp3\obj\Debug\net6.0\EnumInCSharp3.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\EnumInCSharp3\obj\Debug\net6.0\EnumInCSharp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\EnumInCSharp3\obj\Debug\net6.0\EnumInCSharp3.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\EnumInCSharp3\obj\Debug\net6.0\EnumInCSharp3.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\EnumInCSharp3\obj\Debug\net6.0\EnumInCSharp3.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\EnumInCSharp3\obj\Debug\net6.0\EnumInCSharp3.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\EnumInCSharp3\obj\Debug\net6.0\refint\EnumInCSharp3.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\EnumInCSharp3\obj\Debug\net6.0\EnumInCSharp3.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\EnumInCSharp3\obj\Debug\net6.0\EnumInCSharp3.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\EnumInCSharp3\obj\Debug\net6.0\ref\EnumInCSharp3.dll

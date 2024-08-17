@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Destructor\bin\Debug\net7.0\Destructor.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Destructor\bin\Debug\net7.0\Destructor.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Destructor\bin\Debug\net7.0\Destructor.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Destructor\bin\Debug\net7.0\Destructor.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Destructor\bin\Debug\net7.0\Destructor.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Destructor\obj\Debug\net7.0\Destructor.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Destructor\obj\Debug\net7.0\Destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Destructor\obj\Debug\net7.0\Destructor.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Destructor\obj\Debug\net7.0\Destructor.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Destructor\obj\Debug\net7.0\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Destructor\obj\Debug\net7.0\Destructor.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Destructor\obj\Debug\net7.0\refint\Destructor.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Destructor\obj\Debug\net7.0\Destructor.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Destructor\obj\Debug\net7.0\Destructor.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Destructor\obj\Debug\net7.0\ref\Destructor.dll

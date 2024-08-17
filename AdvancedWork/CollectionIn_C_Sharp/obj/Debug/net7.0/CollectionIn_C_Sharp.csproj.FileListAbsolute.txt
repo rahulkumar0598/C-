@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\CollectionIn_C_Sharp\bin\Debug\net7.0\CollectionIn_C_Sharp.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\CollectionIn_C_Sharp\bin\Debug\net7.0\CollectionIn_C_Sharp.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\CollectionIn_C_Sharp\bin\Debug\net7.0\CollectionIn_C_Sharp.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\CollectionIn_C_Sharp\bin\Debug\net7.0\CollectionIn_C_Sharp.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\CollectionIn_C_Sharp\bin\Debug\net7.0\CollectionIn_C_Sharp.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\CollectionIn_C_Sharp\obj\Debug\net7.0\CollectionIn_C_Sharp.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\CollectionIn_C_Sharp\obj\Debug\net7.0\CollectionIn_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\CollectionIn_C_Sharp\obj\Debug\net7.0\CollectionIn_C_Sharp.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\CollectionIn_C_Sharp\obj\Debug\net7.0\CollectionIn_C_Sharp.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\CollectionIn_C_Sharp\obj\Debug\net7.0\CollectionIn_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\CollectionIn_C_Sharp\obj\Debug\net7.0\CollectionIn_C_Sharp.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\CollectionIn_C_Sharp\obj\Debug\net7.0\refint\CollectionIn_C_Sharp.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\CollectionIn_C_Sharp\obj\Debug\net7.0\CollectionIn_C_Sharp.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\CollectionIn_C_Sharp\obj\Debug\net7.0\CollectionIn_C_Sharp.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\CollectionIn_C_Sharp\obj\Debug\net7.0\ref\CollectionIn_C_Sharp.dll

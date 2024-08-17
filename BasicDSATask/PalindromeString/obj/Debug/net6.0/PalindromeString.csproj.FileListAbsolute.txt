@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\PalindromeString\bin\Debug\net6.0\PalindromeString.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\PalindromeString\bin\Debug\net6.0\PalindromeString.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\PalindromeString\bin\Debug\net6.0\PalindromeString.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\PalindromeString\bin\Debug\net6.0\PalindromeString.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\PalindromeString\bin\Debug\net6.0\PalindromeString.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\PalindromeString\obj\Debug\net6.0\PalindromeString.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\PalindromeString\obj\Debug\net6.0\PalindromeString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\PalindromeString\obj\Debug\net6.0\PalindromeString.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\PalindromeString\obj\Debug\net6.0\PalindromeString.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\PalindromeString\obj\Debug\net6.0\PalindromeString.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\PalindromeString\obj\Debug\net6.0\PalindromeString.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\PalindromeString\obj\Debug\net6.0\refint\PalindromeString.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\PalindromeString\obj\Debug\net6.0\PalindromeString.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\PalindromeString\obj\Debug\net6.0\PalindromeString.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\PalindromeString\obj\Debug\net6.0\ref\PalindromeString.dll

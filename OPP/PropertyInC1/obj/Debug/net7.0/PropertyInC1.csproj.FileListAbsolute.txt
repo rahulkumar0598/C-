@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PropertyInC1\bin\Debug\net7.0\PropertyInC1.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PropertyInC1\bin\Debug\net7.0\PropertyInC1.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PropertyInC1\bin\Debug\net7.0\PropertyInC1.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PropertyInC1\bin\Debug\net7.0\PropertyInC1.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PropertyInC1\bin\Debug\net7.0\PropertyInC1.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PropertyInC1\obj\Debug\net7.0\PropertyInC1.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PropertyInC1\obj\Debug\net7.0\PropertyInC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PropertyInC1\obj\Debug\net7.0\PropertyInC1.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PropertyInC1\obj\Debug\net7.0\PropertyInC1.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PropertyInC1\obj\Debug\net7.0\PropertyInC1.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PropertyInC1\obj\Debug\net7.0\PropertyInC1.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PropertyInC1\obj\Debug\net7.0\refint\PropertyInC1.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PropertyInC1\obj\Debug\net7.0\PropertyInC1.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PropertyInC1\obj\Debug\net7.0\PropertyInC1.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\PropertyInC1\obj\Debug\net7.0\ref\PropertyInC1.dll

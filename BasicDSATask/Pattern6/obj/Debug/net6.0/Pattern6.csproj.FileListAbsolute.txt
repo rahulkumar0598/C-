@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\Pattern6\bin\Debug\net6.0\Pattern6.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\Pattern6\bin\Debug\net6.0\Pattern6.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\Pattern6\bin\Debug\net6.0\Pattern6.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\Pattern6\bin\Debug\net6.0\Pattern6.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\Pattern6\bin\Debug\net6.0\Pattern6.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\Pattern6\obj\Debug\net6.0\Pattern6.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\Pattern6\obj\Debug\net6.0\Pattern6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\Pattern6\obj\Debug\net6.0\Pattern6.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\Pattern6\obj\Debug\net6.0\Pattern6.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\Pattern6\obj\Debug\net6.0\Pattern6.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\Pattern6\obj\Debug\net6.0\Pattern6.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\Pattern6\obj\Debug\net6.0\refint\Pattern6.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\Pattern6\obj\Debug\net6.0\Pattern6.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\Pattern6\obj\Debug\net6.0\Pattern6.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\Pattern6\obj\Debug\net6.0\ref\Pattern6.dll

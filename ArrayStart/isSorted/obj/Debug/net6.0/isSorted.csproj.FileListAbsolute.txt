@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\isSorted\bin\Debug\net6.0\isSorted.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\isSorted\bin\Debug\net6.0\isSorted.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\isSorted\bin\Debug\net6.0\isSorted.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\isSorted\bin\Debug\net6.0\isSorted.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\isSorted\bin\Debug\net6.0\isSorted.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\isSorted\obj\Debug\net6.0\isSorted.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\isSorted\obj\Debug\net6.0\isSorted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\isSorted\obj\Debug\net6.0\isSorted.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\isSorted\obj\Debug\net6.0\isSorted.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\isSorted\obj\Debug\net6.0\isSorted.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\isSorted\obj\Debug\net6.0\isSorted.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\isSorted\obj\Debug\net6.0\refint\isSorted.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\isSorted\obj\Debug\net6.0\isSorted.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\isSorted\obj\Debug\net6.0\isSorted.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\ArrayStart\isSorted\obj\Debug\net6.0\ref\isSorted.dll

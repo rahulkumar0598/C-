@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\Stack_Non_Generic\bin\Debug\net7.0\Stack_Non_Generic.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\Stack_Non_Generic\bin\Debug\net7.0\Stack_Non_Generic.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\Stack_Non_Generic\bin\Debug\net7.0\Stack_Non_Generic.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\Stack_Non_Generic\bin\Debug\net7.0\Stack_Non_Generic.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\Stack_Non_Generic\bin\Debug\net7.0\Stack_Non_Generic.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\Stack_Non_Generic\obj\Debug\net7.0\Stack_Non_Generic.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\Stack_Non_Generic\obj\Debug\net7.0\Stack_Non_Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\Stack_Non_Generic\obj\Debug\net7.0\Stack_Non_Generic.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\Stack_Non_Generic\obj\Debug\net7.0\Stack_Non_Generic.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\Stack_Non_Generic\obj\Debug\net7.0\Stack_Non_Generic.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\Stack_Non_Generic\obj\Debug\net7.0\Stack_Non_Generic.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\Stack_Non_Generic\obj\Debug\net7.0\refint\Stack_Non_Generic.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\Stack_Non_Generic\obj\Debug\net7.0\Stack_Non_Generic.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\Stack_Non_Generic\obj\Debug\net7.0\Stack_Non_Generic.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\AdvancedWork\Stack_Non_Generic\obj\Debug\net7.0\ref\Stack_Non_Generic.dll

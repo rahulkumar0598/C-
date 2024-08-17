@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InetrfaceInheritance\bin\Debug\net7.0\InetrfaceInheritance.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InetrfaceInheritance\bin\Debug\net7.0\InetrfaceInheritance.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InetrfaceInheritance\bin\Debug\net7.0\InetrfaceInheritance.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InetrfaceInheritance\bin\Debug\net7.0\InetrfaceInheritance.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InetrfaceInheritance\bin\Debug\net7.0\InetrfaceInheritance.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InetrfaceInheritance\obj\Debug\net7.0\InetrfaceInheritance.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InetrfaceInheritance\obj\Debug\net7.0\InetrfaceInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InetrfaceInheritance\obj\Debug\net7.0\InetrfaceInheritance.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InetrfaceInheritance\obj\Debug\net7.0\InetrfaceInheritance.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InetrfaceInheritance\obj\Debug\net7.0\InetrfaceInheritance.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InetrfaceInheritance\obj\Debug\net7.0\InetrfaceInheritance.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InetrfaceInheritance\obj\Debug\net7.0\refint\InetrfaceInheritance.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InetrfaceInheritance\obj\Debug\net7.0\InetrfaceInheritance.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InetrfaceInheritance\obj\Debug\net7.0\InetrfaceInheritance.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\InetrfaceInheritance\obj\Debug\net7.0\ref\InetrfaceInheritance.dll

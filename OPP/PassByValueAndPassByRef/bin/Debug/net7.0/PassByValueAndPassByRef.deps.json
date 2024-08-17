@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PassByValueAndPassByRef/1.0.0": {
+        "runtime": {
+          "PassByValueAndPassByRef.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PassByValueAndPassByRef/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

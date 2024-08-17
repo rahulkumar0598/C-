@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\AcessSpecifiers1\bin\Debug\net7.0\AcessSpecifiers1.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\AcessSpecifiers1\bin\Debug\net7.0\AcessSpecifiers1.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\AcessSpecifiers1\bin\Debug\net7.0\AcessSpecifiers1.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\AcessSpecifiers1\bin\Debug\net7.0\AcessSpecifiers1.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\AcessSpecifiers1\bin\Debug\net7.0\AcessSpecifiers1.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\AcessSpecifiers1\obj\Debug\net7.0\AcessSpecifiers1.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\AcessSpecifiers1\obj\Debug\net7.0\AcessSpecifiers1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\AcessSpecifiers1\obj\Debug\net7.0\AcessSpecifiers1.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\AcessSpecifiers1\obj\Debug\net7.0\AcessSpecifiers1.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\AcessSpecifiers1\obj\Debug\net7.0\AcessSpecifiers1.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\AcessSpecifiers1\obj\Debug\net7.0\AcessSpecifiers1.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\AcessSpecifiers1\obj\Debug\net7.0\refint\AcessSpecifiers1.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\AcessSpecifiers1\obj\Debug\net7.0\AcessSpecifiers1.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\AcessSpecifiers1\obj\Debug\net7.0\AcessSpecifiers1.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\AcessSpecifiers1\obj\Debug\net7.0\ref\AcessSpecifiers1.dll

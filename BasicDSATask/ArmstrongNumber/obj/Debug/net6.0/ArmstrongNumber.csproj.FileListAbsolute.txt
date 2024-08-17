@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\ArmstrongNumber\bin\Debug\net6.0\ArmstrongNumber.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\ArmstrongNumber\bin\Debug\net6.0\ArmstrongNumber.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\ArmstrongNumber\bin\Debug\net6.0\ArmstrongNumber.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\ArmstrongNumber\bin\Debug\net6.0\ArmstrongNumber.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\ArmstrongNumber\bin\Debug\net6.0\ArmstrongNumber.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\ArmstrongNumber\obj\Debug\net6.0\refint\ArmstrongNumber.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\ArmstrongNumber\obj\Debug\net6.0\ArmstrongNumber.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\BasicDSATask\ArmstrongNumber\obj\Debug\net6.0\ref\ArmstrongNumber.dll

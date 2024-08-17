@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\LambdaFunction\bin\Debug\net7.0\LambdaFunction.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\LambdaFunction\bin\Debug\net7.0\LambdaFunction.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\LambdaFunction\bin\Debug\net7.0\LambdaFunction.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\LambdaFunction\bin\Debug\net7.0\LambdaFunction.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\LambdaFunction\bin\Debug\net7.0\LambdaFunction.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\LambdaFunction\obj\Debug\net7.0\LambdaFunction.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\LambdaFunction\obj\Debug\net7.0\LambdaFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\LambdaFunction\obj\Debug\net7.0\LambdaFunction.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\LambdaFunction\obj\Debug\net7.0\LambdaFunction.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\LambdaFunction\obj\Debug\net7.0\LambdaFunction.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\LambdaFunction\obj\Debug\net7.0\LambdaFunction.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\LambdaFunction\obj\Debug\net7.0\refint\LambdaFunction.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\LambdaFunction\obj\Debug\net7.0\LambdaFunction.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\LambdaFunction\obj\Debug\net7.0\LambdaFunction.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\LambdaFunction\obj\Debug\net7.0\ref\LambdaFunction.dll

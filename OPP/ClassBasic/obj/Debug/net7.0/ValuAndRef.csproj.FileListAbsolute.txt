@@ -1,0 +1,29 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\bin\Debug\net7.0\ValuAndRef.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\bin\Debug\net7.0\ValuAndRef.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\bin\Debug\net7.0\ValuAndRef.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\bin\Debug\net7.0\ValuAndRef.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\bin\Debug\net7.0\ValuAndRef.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ValuAndRef.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ValuAndRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ValuAndRef.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ValuAndRef.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ValuAndRef.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ValuAndRef.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\refint\ValuAndRef.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ValuAndRef.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ValuAndRef.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ref\ValuAndRef.dll
+C:\Users\rahulkumar22\OneDrive - Nagarro\Desktop\Folder D\C#\OPP\ClassBasic\bin\Debug\net7.0\ValuAndRef.exe
+C:\Users\rahulkumar22\OneDrive - Nagarro\Desktop\Folder D\C#\OPP\ClassBasic\bin\Debug\net7.0\ValuAndRef.deps.json
+C:\Users\rahulkumar22\OneDrive - Nagarro\Desktop\Folder D\C#\OPP\ClassBasic\bin\Debug\net7.0\ValuAndRef.runtimeconfig.json
+C:\Users\rahulkumar22\OneDrive - Nagarro\Desktop\Folder D\C#\OPP\ClassBasic\bin\Debug\net7.0\ValuAndRef.dll
+C:\Users\rahulkumar22\OneDrive - Nagarro\Desktop\Folder D\C#\OPP\ClassBasic\bin\Debug\net7.0\ValuAndRef.pdb
+C:\Users\rahulkumar22\OneDrive - Nagarro\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ValuAndRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\OneDrive - Nagarro\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ValuAndRef.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\OneDrive - Nagarro\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ValuAndRef.AssemblyInfo.cs
+C:\Users\rahulkumar22\OneDrive - Nagarro\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ValuAndRef.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\OneDrive - Nagarro\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ValuAndRef.dll
+C:\Users\rahulkumar22\OneDrive - Nagarro\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\refint\ValuAndRef.dll
+C:\Users\rahulkumar22\OneDrive - Nagarro\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ValuAndRef.pdb
+C:\Users\rahulkumar22\OneDrive - Nagarro\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ValuAndRef.genruntimeconfig.cache
+C:\Users\rahulkumar22\OneDrive - Nagarro\Desktop\Folder D\C#\OPP\ClassBasic\obj\Debug\net7.0\ref\ValuAndRef.dll

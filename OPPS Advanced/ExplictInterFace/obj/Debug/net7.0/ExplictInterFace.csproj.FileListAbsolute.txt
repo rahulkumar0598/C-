@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\ExplictInterFace\bin\Debug\net7.0\ExplictInterFace.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\ExplictInterFace\bin\Debug\net7.0\ExplictInterFace.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\ExplictInterFace\bin\Debug\net7.0\ExplictInterFace.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\ExplictInterFace\bin\Debug\net7.0\ExplictInterFace.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\ExplictInterFace\bin\Debug\net7.0\ExplictInterFace.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\ExplictInterFace\obj\Debug\net7.0\ExplictInterFace.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\ExplictInterFace\obj\Debug\net7.0\ExplictInterFace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\ExplictInterFace\obj\Debug\net7.0\ExplictInterFace.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\ExplictInterFace\obj\Debug\net7.0\ExplictInterFace.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\ExplictInterFace\obj\Debug\net7.0\ExplictInterFace.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\ExplictInterFace\obj\Debug\net7.0\ExplictInterFace.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\ExplictInterFace\obj\Debug\net7.0\refint\ExplictInterFace.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\ExplictInterFace\obj\Debug\net7.0\ExplictInterFace.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\ExplictInterFace\obj\Debug\net7.0\ExplictInterFace.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\ExplictInterFace\obj\Debug\net7.0\ref\ExplictInterFace.dll

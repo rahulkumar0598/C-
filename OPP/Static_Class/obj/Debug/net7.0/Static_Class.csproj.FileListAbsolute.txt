@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Static_Class\bin\Debug\net7.0\Static_Class.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Static_Class\bin\Debug\net7.0\Static_Class.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Static_Class\bin\Debug\net7.0\Static_Class.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Static_Class\bin\Debug\net7.0\Static_Class.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Static_Class\bin\Debug\net7.0\Static_Class.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Static_Class\obj\Debug\net7.0\Static_Class.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Static_Class\obj\Debug\net7.0\Static_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Static_Class\obj\Debug\net7.0\Static_Class.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Static_Class\obj\Debug\net7.0\Static_Class.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Static_Class\obj\Debug\net7.0\Static_Class.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Static_Class\obj\Debug\net7.0\Static_Class.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Static_Class\obj\Debug\net7.0\refint\Static_Class.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Static_Class\obj\Debug\net7.0\Static_Class.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Static_Class\obj\Debug\net7.0\Static_Class.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPP\Static_Class\obj\Debug\net7.0\ref\Static_Class.dll

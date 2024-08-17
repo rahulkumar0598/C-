@@ -1,0 +1,15 @@
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultiCastDelegates\bin\Debug\net7.0\MultiCastDelegates.exe
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultiCastDelegates\bin\Debug\net7.0\MultiCastDelegates.deps.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultiCastDelegates\bin\Debug\net7.0\MultiCastDelegates.runtimeconfig.json
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultiCastDelegates\bin\Debug\net7.0\MultiCastDelegates.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultiCastDelegates\bin\Debug\net7.0\MultiCastDelegates.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultiCastDelegates\obj\Debug\net7.0\MultiCastDelegates.csproj.AssemblyReference.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultiCastDelegates\obj\Debug\net7.0\MultiCastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultiCastDelegates\obj\Debug\net7.0\MultiCastDelegates.AssemblyInfoInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultiCastDelegates\obj\Debug\net7.0\MultiCastDelegates.AssemblyInfo.cs
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultiCastDelegates\obj\Debug\net7.0\MultiCastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultiCastDelegates\obj\Debug\net7.0\MultiCastDelegates.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultiCastDelegates\obj\Debug\net7.0\refint\MultiCastDelegates.dll
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultiCastDelegates\obj\Debug\net7.0\MultiCastDelegates.pdb
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultiCastDelegates\obj\Debug\net7.0\MultiCastDelegates.genruntimeconfig.cache
+C:\Users\rahulkumar22\Desktop\Folder D\C#\OPPS Advanced\MultiCastDelegates\obj\Debug\net7.0\ref\MultiCastDelegates.dll
